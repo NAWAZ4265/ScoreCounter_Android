@@ -126,6 +126,8 @@
             android:layout_alignParentBottom="true"
             android:layout_centerInParent="true"
             android:onClick="reset"
-            android:text="Reset" />
+            android:text="Reset"
+            android:textAllCaps="true"
+            />
     </RelativeLayout>
 </LinearLayout>
